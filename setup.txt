@@ -1,0 +1,4 @@
+vagrant up
+vagrant halt
+vagrant destroy
+"http://localhost:8001/
